@@ -11,6 +11,12 @@ Modern, responsive React 18 + Vite web application for **DocuMind AI**:
 
 ---
 
+## 🌐 Live Production Deployments
+- 💻 **Frontend Web App (Vercel):** [https://docu-mind-ai-frontend.vercel.app/](https://docu-mind-ai-frontend.vercel.app/)
+- 🚀 **Backend REST API (Render):** `https://documind-ai-backend-8ssm.onrender.com/api`
+
+---
+
 ## 🛠️ Tech Stack
 - **Framework:** React 18 + Vite
 - **Styling:** Tailwind CSS + PostCSS
